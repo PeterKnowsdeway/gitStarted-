@@ -1,0 +1,11 @@
+/* Peter Welter Aug 22 2018, About you style sheet, stlye.css */
+	body {background-color:red;}
+	 p {color:black; font-variant:normal; font-weight;bold;}
+		h1 {font-style:oblique;}
+		h2 {font-style:italic;}
+		section {background-color: grey;}
+	header {background-color:brown;}
+	footer {font-size:.85em;text-align:center;}
+	
+  
+	   
